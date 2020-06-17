@@ -40,7 +40,7 @@ Once the requirements are checked, you can easily download this project and use 
 * **STEP 2** <br>
   Run the [runModel.py](./runModel.py) file using python to see the solution
 
-  ![Run runModel.py File Using Python](./assets/RunModelPythonFile.gif)
+  ![Run runModel.py Using Python](./assets/RunModelPythonFile.gif)
 
   <br>
 
