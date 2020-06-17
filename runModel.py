@@ -12,7 +12,7 @@ from buildDiscriminator import buildDiscriminator
 PATH = '../path/to/data' 
 
 # Change these variables as per your need
-EPOCHS = 2
+EPOCHS = 100
 BUFFER_SIZE = 14224
 BATCH_SIZE = 4
 IMG_WIDTH = 256

@@ -31,9 +31,9 @@ To download and use this code, the minimum requirements are:
 Once the requirements are checked, you can easily download this project and use it on your machine in few simple steps.
 
 * **STEP 1** <br>
-    Download this repository as a zip file onto your machine and extract the sketch-to-color-master folder from it.
+    Download this repository as a zip file onto your machine and extract all the files from it.
 
-    ![Download and Extract Zip Folder](./assets/DownloadAndExatractZip.gif)
+    ![Download and Extract Zip Folder](./assets/DownloadAndExtractFiles.gif)
 
     <br>
 
@@ -59,11 +59,11 @@ Once the requirements are checked, you can easily download this project and use 
 
 ## Future Works
 
-This is a basic academic project and I am planning on exploring other ideas to make it more interesting and intuitive. Some of the things I'm working on currently are listed below.
+I've been working on GANs for a lot of time and planning to continue exploring the field for further applications and research work. Some of the points that I think this project can grow or be a base for are listed below.
 
-1. Trying different algorithms than the Backtracking such as Stochastic search, Constraint programming, Exact cover, and others.
-2. Exploring the use Machine Learning algorithms to solve Sudoku Puzzles using a [dataset available on Kaggle](https://www.kaggle.com/rohanrao/sudoku) which provides 9 million Sudoku Puzzle-Solution pairs.
-3. Using Convolutional Neural Networks and Image processing to detect Sudoku Puzzles from the hard copies and displaying the found solution onto it using the AR (Augmented Reality) Technology.
+1. Trying different databases to get an idea of preprocessing different types of images and building models specific to those input image types.
+2. This is a project applied on individual Image to Image translation. Further the model can be used to process black and white sketch video frames to generate colored videos.
+3. Converting the model from HDF5 to json and building interesting web apps using [TensorFlow.Js](https://www.tensorflow.org/js).
 
 ## Credits
 
