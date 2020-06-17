@@ -9,7 +9,7 @@ from buildGenerator import buildGenerator
 from buildDiscriminator import buildDiscriminator
 
 # Change PATH variable to absolute/ relative path to the images directory on your machine which contains the train and val folders
-PATH = '../PathToDataset/anime-sketch-colorization-pair/data' 
+PATH = '../path/to/data' 
 
 # Change these variables as per your need
 EPOCHS = 2
