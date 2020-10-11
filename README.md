@@ -1,5 +1,7 @@
 # Sketch to Color Image Generation Using Conditional GANs
 
+## Read my article on [Medium](https://towardsdatascience.com/generative-adversarial-networks-gans-89ef35a60b69)
+
 ![Sketch to Color Image Generation using Conditional GANs](./assets/outputs.gif)
 
 Sketch to Color Image generation is an image-to-image translation model using Conditional Generative Adversarial Networks as described in the original paper by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros 2016, [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004).
